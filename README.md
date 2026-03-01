@@ -3,7 +3,7 @@
 <h3 align="center">📊 Business Intelligence Developer | 📈 Data Analyst Trainer</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Data Analyst Working GIF"/>
+  <img src="https://i.pinimg.com/originals/ed/ec/57/edec57b70e496d6310c0ba533909acb2.gif" width="300" alt="Data Analyst Working GIF"/>
 </p>
 
 ---
